@@ -11,6 +11,7 @@ import heroImage from "@/assets/hero-workspace.jpg";
 export const Route = createFileRoute("/")({
   head: () => ({
     meta: [
+            { name: "google-site-verification", content: "GWZtigrfJBzXWayOmmEkZZBBtd22Ub5ouMnAvfzJySk" },
       { title: "Sainath Bohare — Full-Stack .NET & Angular Developer" },
       {
         name: "description",
